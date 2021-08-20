@@ -1,2 +1,2 @@
-new sample 
-modified in remote.
+new sample
+in locla repo
